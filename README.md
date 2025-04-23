@@ -55,5 +55,7 @@ The finished front‑end should feel like a lightweight clone of Coursera or Ude
 
 OUTPUT OF THE TASK :
 
+![Image](https://github.com/user-attachments/assets/1cbb66ff-a30b-459a-bad5-5dcce340b1c7)
+
 
 
