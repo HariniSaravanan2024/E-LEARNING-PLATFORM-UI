@@ -13,10 +13,7 @@ MENTOR NAME : NEELA SANTHOSH
 
 DESCRIPTION OF THE TASK: E-LEARNING PLATFORM
 
-**E‑Learning Front‑End Design – Project Overview**  
-*(≈260 words)*  
-
-The goal is to build the **client‑side (front‑end) interface** of an online learning platform—the part every learner and instructor sees and clicks. It must be visually appealing, responsive on phones and laptops, and ready to plug into any back‑end API later.
+The goal is to build the **E‑Learning Front‑End Design** of an online learning platform—the part every learner and instructor sees and clicks. It must be visually appealing, responsive on phones and laptops, and ready to plug into any back‑end API later.
 
 1. User‑Facing Pages  
 1. **Landing / Course Catalog**  
